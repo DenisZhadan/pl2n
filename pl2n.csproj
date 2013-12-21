@@ -35,6 +35,9 @@
     <Reference Include="FirebirdSql.Data.FirebirdClient">
       <HintPath>packages\FirebirdSql.Data.FirebirdClient.4.0.0.0\lib\net40-client\FirebirdSql.Data.FirebirdClient.dll</HintPath>
     </Reference>
+    <Reference Include="NLog">
+      <HintPath>packages\NLog.2.1.0\lib\net40\NLog.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
